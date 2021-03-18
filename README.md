@@ -7,4 +7,4 @@
   width="480"
 />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzofelletti&hide=issues&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzofelletti&hide=issues&show_icons=true&theme=merko)
